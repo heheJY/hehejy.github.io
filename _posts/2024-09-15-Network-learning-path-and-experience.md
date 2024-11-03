@@ -22,4 +22,10 @@ If you’re aiming to learn networking fundamentals, Jeremy IT Lab on YouTube an
 
 And that’s a wrap on my current thoughts and experiences! I’m always learning, so if you spot something that could be improved, feel free to drop me an email. I’m still new to this field, but I hope my journey helps guide yours. Just remember, the world of networking is fundamental but ever-evolving—don’t be afraid to expand into virtualization and cloud tech as you grow. 🌱
 
+Lastly, this is a graphical roadmap that i get from a github account that I think would be helpful(https://github.com/eovchar/neteng-roadmap/)
+
+![alt text](/assets/img/network path/NetengRoadmap_v2.png)
+
 Hope this helps, and happy studying! 🚀
+
+**Above blog is generated with the help of GPT XD**
