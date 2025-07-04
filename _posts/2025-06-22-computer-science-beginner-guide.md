@@ -181,10 +181,13 @@ AI can help with structure or wording, but YOU need to fill it with **your real 
 Every project you list may trigger deep technical questions. Be ready to explain your design, tools, problems you faced, and how you solved them.
 
 ✅ **For fresh grads without much experience:**  
-Projects are your most important asset. Build at least 1–2 solid full-cycle projects — from design → build → deploy → document.
+Projects are your most important asset. Build at least 1–2 solid full-cycle projects — from design → build → deploy → document. 
 
 ✅ **One page is usually enough.**  
 Keep it concise, clear, and relevant.
+
+✅ **Be Humble during the interview.**  
+Ask for advices from your interviewer, understand really well the job scope, and seek advices from them. Definitely learn a lot if you make the interview process part of learning.
 
 ✅ **Optional bonus:**  
 Add your GitHub profile (with well-documented repos), personal website, or tech blog. Employers love seeing detailed project documentation.
